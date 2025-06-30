@@ -35,13 +35,13 @@ This diagram illustrates a more detailed web application with:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/Auxin-io/Auxin-AI-App-Threat-Modeler
+    git clone https://github.com/Auxin-io/Auxin-AI-Apps-Threat-Modeler
     ```
 
 2. Change to the cloned repository directory:
 
     ```bash
-    cd Auxin-AI-App-Threat-Modeler
+    cd Auxin-AI-Apps-Threat-Modeler
     ```
 
 3. Install the required Python packages:
