@@ -2,14 +2,15 @@
 
 STRIDE GPT is an AI-powered threat modelling tool that leverages Large Language Models (LLMs) to generate threat models and attack trees for a given application based on the STRIDE methodology. Users provide application details, such as the application type, authentication methods, and whether the application is internet-facing or processes sensitive data. The model then generates its output based on the provided information.
 
+---
+
 ## Demo Architectures
 
 STRIDE GPT can analyze various application architectures. Below are two sample architecture patterns:
 
 ### AWS 3-Tier Architecture
 
-![AWS 3 Tier Architecture](https://github.com/user-attachments/assets/9e8dfbfd-fa83-45e8-9e07-4d9ca09458a4)
-
+![AWS 3 Tier Architecture](https://github.com/user-attachments/assets/b618d81c-a8f8-42de-a677-acc6b77d7395)
 
 This architecture shows a typical AWS deployment with:
 - Frontend tier (handling user interactions)
@@ -19,14 +20,15 @@ This architecture shows a typical AWS deployment with:
 
 ### Web Application Architecture
 
-![Web Application Architecture](https://github.com/user-attachments/assets/3f6e94ac-792e-4d0c-a170-8b8960d3cf0b)
-
+![Web Application Architecture](https://github.com/user-attachments/assets/b12b7c96-c702-4dde-9ad9-d7ea26b9ffe2)
 
 This diagram illustrates a more detailed web application with:
 - Load balanced web services
 - Application servers
 - Data warehouse and analytics components
 - CDN and cloud storage
+
+---
 
 ## Installation & Usage
 
