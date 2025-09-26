@@ -94,7 +94,7 @@ This diagram illustrates a more detailed web application with:
 2. Run the docker container:
 
     ```bash
-    docker run -d -p 8501:8501 --env-file .env stridegpt
+    docker run -d -p 8501:8501 --env-file .env threatmodeling
     ```
 
 3. Open a web browser and navigate to `http://localhost:8501` to access the app running inside the container.
